@@ -1,2 +1,2 @@
 # Adding a new file to my new branch
-print("Inside test branch")
+echo "this is a test branch"
